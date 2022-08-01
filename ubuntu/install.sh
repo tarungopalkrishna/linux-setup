@@ -47,6 +47,7 @@ sudo apt install -y google-chrome-stable
 # Install other casual packages
 sudo apt install -y jq libreoffice libreoffice-plasma subversion okular
 sudo apt-get install -y net-tools
+sudo snap install htop spotify vlc
 
 
 # Optional packages
@@ -55,6 +56,10 @@ sudo apt-get install -y net-tools
 
 # MongoDB Compass
 # sudo apt install mongodb-compass
+
+# Ant build tool for java
+# Using snap as it has the most latest version
+# sudo snap install ant --classic
 
 # Other packages I want to install
 # 1. graphviz
