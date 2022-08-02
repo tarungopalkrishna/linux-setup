@@ -1,6 +1,6 @@
 #####
 ##
-## Script to setup a new linux machine
+## Script to setup a new ubuntu machine
 ##
 #####
 
