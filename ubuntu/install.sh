@@ -41,14 +41,35 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plu
 sudo usermod -aG docker ${USER}
 su - ${USER}
 
+# Uninstall mozilla firefox
+sudo apt purge firefox -yy
+sudo apt purge firefox-locale-en -yy
+if [ -d "/home/$USER/.mozilla" ]; then
+    rm -rf /home/$USER/.mozilla
+fi
+if [ -d "/home/$USER/.cache/mozilla" ]; then
+    rm -rf /home/$USER/.cache/mozilla
+fi
+
 # Install google chrome
 sudo apt install -y google-chrome-stable
 
 # Install other casual packages
-sudo apt install -y jq libreoffice libreoffice-plasma subversion okular
+sudo apt install -y jq libreoffice libreoffice-plasma subversion okular unzip
 sudo apt-get install -y net-tools
 sudo snap install htop spotify vlc
 
+# Uninstall junk packages
+sudo apt-get remove thunderbird rhythmbox ubuntu-web-launchers -y
+
+# TODO
+# 1. Uninstall unecessary kde packages
+
+## Disable Apport
+sudo sed -i 's/enabled=1/enabled=0/g' /etc/default/apport
+
+# Update and upgrade one last time
+sudo apt update && sudo apt upgrade -y
 
 # Optional packages
 # Kafka
