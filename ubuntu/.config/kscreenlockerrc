@@ -1,0 +1,17 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter]
+Theme=org.kde.breezedark.desktop
+WallpaperPlugin=org.kde.slideshow
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/tarun/Downloads/wallpapers/wallpaperflare.com_wallpaper (7).jpg
+
+[Greeter][Wallpaper][org.kde.plasma.gameoflife][General]
+color=#ffffff
+
+[Greeter][Wallpaper][org.kde.slideshow][General]
+SlideInterval=5
+SlidePaths=/home/tarun/Pictures/wallpapers/slideshow-lockscreen
+UncheckedSlides=file:///usr/share/desktop-base/futureprototype-theme/wallpaper/contents/images/1920x1080.svg,file:///usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1280x720.svg,file:///usr/share/desktop-base/moonlight-theme/wallpaper/contents/images/1280x720.svg,file:///usr/share/desktop-base/softwaves-theme/lockscreen/contents/images/1280x720.svg,file:///usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1280x720.svg,file:///usr/share/desktop-base/joy-theme/lockscreen/contents/images/1280x720.svg,file:///usr/share/desktop-base/moonlight-theme/lockscreen/contents/images/1920x1080.svg,file:///usr/share/desktop-base/futureprototype-theme/wallpaper-withlogo/contents/images/1920x1080.svg,file:///usr/share/desktop-base/lines-theme/wallpaper/contents/images/1920x1080.svg,file:///usr/share/wallpapers/Next/contents/images/1366x768.jpg,file:///usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x720.svg,file:///usr/share/desktop-base/lines-theme/lockscreen/contents/images/1920x1080.svg,file:///usr/share/desktop-base/joy-theme/wallpaper/contents/images/1280x720.svg,file:///home/tarun/Pictures/wallpapers/slideshow-lockscreen/waqar-eel8FoPWqdw-unsplash.jpg,file:///home/tarun/Pictures/wallpapers/slideshow-lockscreen/wallpaperflare.com_wallpaper (1).jpg

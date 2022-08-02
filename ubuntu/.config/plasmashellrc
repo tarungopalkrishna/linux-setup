@@ -1,0 +1,78 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAA1gAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 1080=516
+Height 720=516
+Width 1280=595
+Width 1920=595
+
+[FileDialogSize]
+Height 1080=600
+Width 1920=884
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=video_1.mp4,file:$HOME/Pictures/wallpapers/slideshow-desktop/wallpaperflare.com_wallpaper (6).jpg
+Recent URLs[$e]=file:$HOME/Pictures/wallpapers/slideshow-desktop/
+detailViewIconSize=0
+iconViewIconSize=43
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_systemsettings.desktop,1 services_google-chrome.desktop,1 services_code_code.desktop
+pluginWhiteList=services,shell,bookmarks,baloosearch,locations
+
+[PlasmaViews][Panel 19][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 19][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 21][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 21][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 38][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 38][Horizontal1280]
+thickness=27
+
+[PlasmaViews][Panel 38][Horizontal1600]
+thickness=27
+
+[PlasmaViews][Panel 38][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 54][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 54][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 56]
+panelVisibility=1
+
+[PlasmaViews][Panel 56][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 56][Horizontal1920]
+thickness=27
+
+[ScreenConnectors]
+0=eDP-1
+1=HDMI-1
+2=:0.0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js

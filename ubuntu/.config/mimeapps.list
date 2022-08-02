@@ -1,0 +1,18 @@
+[Added Associations]
+image/gif=org.gnome.eog.desktop;firefox.desktop;okularApplication_kimgio.desktop;google-chrome.desktop;
+image/jpeg=org.gnome.eog.desktop;firefox.desktop;okularApplication_kimgio.desktop;google-chrome.desktop;
+image/jpx=org.gnome.eog.desktop;
+image/png=org.gnome.eog.desktop;firefox.desktop;okularApplication_kimgio.desktop;google-chrome.desktop;
+
+[Default Applications]
+image/gif=org.gnome.eog.desktop;
+image/jpeg=org.gnome.eog.desktop;
+image/jpx=org.gnome.eog.desktop;
+image/png=org.gnome.eog.desktop;
+text/html=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop;
+x-scheme-handler/https=google-chrome.desktop;
+x-scheme-handler/mailto=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/msteams=teams.desktop

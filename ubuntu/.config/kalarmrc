@@ -1,0 +1,54 @@
+[$Version]
+update_info=kalarm.upd:1.9.5,kalarm.upd:1.9.9,kalarm.upd:1.9.12,kalarm.upd:2.0.0,kalarm.upd:2.0.2,kalarm.upd:2.1.5,kalarm.upd:2.3.2
+
+[AgentTypeDialog]
+Size=460,320
+
+[EditDialog]
+Height 1080=726
+Height 720=668
+Width 1280=554
+Width 3200=554
+
+[FileDialogSize]
+Height 1080=600
+Width 1920=884
+
+[General]
+AutoStart=true
+Backend=Akonadi
+Version=2.13.3
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/alarms/work-kampd,file:$HOME/.local/share/sounds/__custom/bell-window-system.ogg,file:$HOME/.local/share/sounds/__custom/bell-terminal.ogg
+Recent URLs[$e]=file:$HOME/.local/share/sounds/__custom/
+iconViewIconSize=43
+
+[MainWindow]
+Height 1080=480
+MenuBar=Disabled
+Splitter 3200=150
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=640
+
+[Migratekde4]
+Version=1
+
+[Notification Messages]
+ConfirmAlarmDeletion=true
+EmailQueuedNotify=false
+QuitWarn=
+
+[Phonon::AudioOutput]
+KAlarm_Volume=1
+
+[ResourceSelectDialog]
+Height 1080=290
+Width 3200=276
+
+[ShowOpts]
+EditMore=true
+
+[View]
+ShowResources=true

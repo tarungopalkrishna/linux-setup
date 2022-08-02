@@ -1,0 +1,7 @@
+[General]
+IgnoreImages=false
+MaxClipItems=10
+PreventEmptyClipboard=false
+SelectionTextOnly=false
+TimeoutForActionPopups=5
+Version=5.18.8

@@ -1,0 +1,9 @@
+[MainWindow]
+Height 1080=664
+Height 720=664
+Width 1280=1920
+Width 1920=1920
+
+[WalletEditor]
+AlwaysShowContents=false
+SplitterSize=49,49

@@ -1,0 +1,14 @@
+[1]
+HiddenTrayParent=true
+ResourcesWidth=268
+ShowArchived=false
+ShowColumns=true,false,true,true,true
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=MainWindow
+MenuBar=Disabled
+ObjectName=MainWin
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA

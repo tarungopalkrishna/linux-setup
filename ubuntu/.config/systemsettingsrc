@@ -1,0 +1,42 @@
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[FileDialogSize]
+Height 1080=600
+Width 1920=884
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/kde-shortcut-settings,file:$HOME/Downloads/wallpapers/wallpaperflare.com_wallpaper (7).jpg,file:$HOME/Downloads/wallpapers/wallpaperflare.com_wallpaper (5).jpg,file:$HOME/Downloads/wallpapers/wp6940846-laptop-4k-wallpapers.jpg,file:$HOME/Downloads/wallpapers/wp6940844-laptop-4k-wallpapers.jpg,file:$HOME/Downloads/wallpapers/wp5871043-laptop-4k-wallpapers.jpg,file:$HOME/Downloads/wallpapers/wp5718716-laptop-4k-wallpapers.jpg,file:$HOME/Downloads/wallpapers/rolands-varsbergs-OLC2nQUQhKA-unsplash.jpg,file:$HOME/Downloads/wallpapers/roberto-nickson-lGCfApDzhYw-unsplash.jpg
+Recent URLs[$e]=file:$HOME/Downloads/wallpapers/
+detailViewIconSize=0
+iconViewIconSize=43
+
+[KPropertiesDialog]
+Height 1080=456
+Width 1920=410
+
+[MainWindow]
+Height 1080=648
+Height 720=648
+Height 864=700
+Height 900=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQbAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1152=1024
+Width 1280=1024
+Width 1600=1024
+Width 1920=1024
+Window-Maximized 1080x1920=true
+Window-Maximized 720x1280=true
+Window-Maximized 800x1280=true
+Window-Maximized 900x1600=true
+Window-Maximized 960x1280=true
+
+[Open-with settings]
+CompletionMode=1
+History=image
+
+[PlasmaRunnerManager]
+LaunchCounts=

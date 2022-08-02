@@ -1,0 +1,11 @@
+[FileDialogSize]
+Height 1080=600
+Width 1920=884
+Window-Maximized 1080x1920=true
+Window-Maximized 720x1280=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/data/Downloads/Search expectations(17-05-2022).docx,file:$HOME/data/Downloads/wallpapers/colin-horn-fR9U2S31Exs-unsplash.jpg,file:$HOME/data/Downloads/wallpapers/adrian-pelletier-BeIvjuz6k2k-unsplash.jpg,file:$HOME/data/Downloads/wallpapers/wallpaperflare.com_wallpaper.jpg,file:$HOME/data/Downloads/wallpapers/wallpaperflare.com_wallpaper (10).jpg,file:$HOME/data/Downloads/wallpapers/giphy.gif,file:$HOME/data/Downloads/wallpapers/federico-beccari-eGJg5iRGlg8-unsplash.jpg,file:$HOME/data/Downloads/wallpapers/giphy (1).gif,file:$HOME/data/Downloads/wallpapers/waqar-eel8FoPWqdw-unsplash.jpg,file:$HOME/data/Downloads/wallpapers/wp6940844-laptop-4k-wallpapers.jpg,file:$HOME/data/Downloads/wallpapers/wp1836722-aesthetic-wallpapers.jpg,file:$HOME/data/Downloads/wallpapers/wp1836736-aesthetic-wallpapers.jpg,file:$HOME/data/Downloads/wallpapers/roberto-nickson-lGCfApDzhYw-unsplash.jpg,file:$HOME/data/Downloads/wallpapers/wp6581113-aesthetic-for-desktop-wallpapers.jpg,file:$HOME/data/Downloads/wallpapers/wallpaperflare.com_wallpaper (11).jpg
+Recent URLs[$e]=file:$HOME/data/Downloads/wallpapers/
+detailViewIconSize=0
+iconViewIconSize=43

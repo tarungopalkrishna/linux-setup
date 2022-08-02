@@ -1,0 +1,8 @@
+[Applications][google-chrome]
+Seen=true
+
+[Applications][teams]
+Seen=true
+
+[DoNotDisturb]
+Until=2022,5,20,16,50,0

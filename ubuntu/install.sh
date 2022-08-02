@@ -59,6 +59,12 @@ sudo apt install -y jq libreoffice libreoffice-plasma subversion okular unzip
 sudo apt-get install -y net-tools
 sudo snap install htop spotify vlc
 
+# Update pip
+pip3 install --upgrade pip
+
+# Pip install these packages
+pip3 install stormssh gdbfrontend gprof2dot pycallgraph
+
 # Uninstall junk packages
 sudo apt-get remove thunderbird rhythmbox ubuntu-web-launchers -y
 

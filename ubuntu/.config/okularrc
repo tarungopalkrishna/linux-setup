@@ -1,0 +1,40 @@
+[Desktop Entry]
+FullScreen=false
+
+[FileDialogSize]
+Height 1080=600
+Width 1920=884
+
+[KFileDialog Settings]
+iconViewIconSize=43
+
+[MainWindow]
+Height 1080=664
+Height 720=664
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABQAAAAJyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=1280
+Width 1920=1280
+
+[Recent Files]
+File1[$e]=$HOME/data/Downloads/To call/de intern to call/CHIPPAGIRIHEMANTH.pdf
+File10[$e]=$HOME/Downloads/resumes/manas+data+science.pdf
+File2[$e]=$HOME/data/Downloads/To call/de intern to call/Alok_Rai.pdf
+File3[$e]=$HOME/data/Downloads/To call/de intern to call/AnkitSinghResume_EXP-7_Month.pdf
+File4[$e]=$HOME/data/work/kampd/books/kampd_search/Relevant Search_ With applications for Solr and Elasticsearch ( PDFDrive ).pdf
+File5[$e]=$HOME/data/Downloads/7112491-21bfb25304ca80117519858dbfec34b4.pdf
+File6[$e]=$HOME/data/Downloads/7164729-8b2c98035f336bf2aa6420e5a68bf842.pdf
+File7[$e]=$HOME/Downloads/resumes/AryanJha_Resume.pdf
+File8[$e]=$HOME/Downloads/resumes/Srinivas's+Resume+(1).pdf
+File9[$e]=$HOME/Downloads/resumes/7113063-79dc14ace5d7bf84b42e7281f5312150.pdf
+Name1[$e]=CHIPPAGIRIHEMANTH.pdf
+Name10[$e]=manas+data+science.pdf
+Name2[$e]=Alok_Rai.pdf
+Name3[$e]=AnkitSinghResume_EXP-7_Month.pdf
+Name4[$e]=Relevant Search_ With applications for Solr and Elasticsearch ( PDFDrive ).pdf
+Name5[$e]=7112491-21bfb25304ca80117519858dbfec34b4.pdf
+Name6[$e]=7164729-8b2c98035f336bf2aa6420e5a68bf842.pdf
+Name7[$e]=AryanJha_Resume.pdf
+Name8[$e]=Srinivas's+Resume+(1).pdf
+Name9[$e]=7113063-79dc14ace5d7bf84b42e7281f5312150.pdf
