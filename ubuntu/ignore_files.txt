@@ -1,0 +1,16 @@
+.cache
+.sudo_as_admin_successful
+.*history*
+.npm
+.sdkman
+data
+.config/Code
+.config/google-chrome
+.confg/Microsoft
+.config/Microsoft\ Teams\ -\ Preview
+.config/dooit
+.config/MongoDB\ Compass
+.config/teams
+.config/Unknown\ Organization
+.config/
+.config/
