@@ -1,0 +1,4 @@
+anaconda3
+node_modules
+nltk_data
+docker/volumes
